@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://http://chenyiran.top/antd-webpage",
+  "homepage": "http://chenyiran.top/antd-webpage/dist",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",

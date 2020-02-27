@@ -1,5 +1,6 @@
 export default {
     base: 'http://chenyiran.top/antd-webpage/dist',
+    history: 'hash',
     singular: true,
     routes: [{
         path: '/',
